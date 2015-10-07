@@ -1,0 +1,24 @@
+table, th, td{
+    
+    border: 2px solid;
+}
+
+th{
+    
+    background-color: lightblue;
+}
+
+.young{
+    
+    background-color: green;
+}
+
+.middle_age{
+    
+    background-color: red;
+}
+
+.old{
+    
+    background-color: gray;
+}
